@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App der olar dados com paginas</string>
+    <string name="button">Button</string>
+    <string name="botaod6">botaod6</string>
+    <string name="escolha_seu_dado">Escolha seu dado</string>
+    <string name="d6">d6</string>
+    <string name="d12">d12</string>
+    <string name="d20">d20</string>
+    <string name="buttonfff">Button</string>
+    <string name="botaod12">botaod12</string>
+    <string name="voltar">voltar</string>
+    <string name="girar_at_6">Girar até 6</string>
+    <string name="girar_at_12">Girar até 12</string>
+    <string name="girar_at_20">Girar até 20</string>
+</resources>
